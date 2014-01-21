@@ -1,0 +1,9 @@
+{
+        "name": "bluetooth-cod",
+        "version":"0.0.1",
+        "author": ["Liban Abdulkadir <la12808@my.bristol.ac.uk>"],
+        "dependencies":{
+                "mocha":"*",
+                "assert":"*"
+        }
+}
